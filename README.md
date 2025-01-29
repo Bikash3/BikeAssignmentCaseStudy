@@ -9,15 +9,11 @@
 
 
 ## General Information
-A bike-sharing company in the US, has recently experienced significant revenue declines due to the ongoing COVID-19 pandemic. The company is struggling to sustain itself in the current market conditions. Therefore, it has decided to develop a strategic business plan to accelerate its revenue once the lockdown ends and the economy returns to a healthy state.
+BoomBikes, a US bike-sharing provider, has seen a significant decline in revenue due to the COVID-19 pandemic. In response, the company plans to create a strategic business plan to boost revenue post-lockdown. They aim to understand the demand for shared bikes once the quarantine ends, to better cater to people's needs and outperform competitors.
 
-The company's primary goals are:
+BoomBikes has hired a consulting company to identify factors influencing bike demand in the American market. They want to know which variables significantly predict demand and how well these variables describe it. The company has collected a large dataset on daily bike demands based on meteorological surveys and people's behavior.
 
-- To understand the demand for shared bikes after the nationwide quarantine ends by creating a linear model.
-- To identify the variables that affect their revenues, i.e., which factors are significant in predicting the demand for shared bikes.
-- To assess the accuracy of the model in describing bike demands.
-
-This plan aims to prepare BoomBikes to meet the needs of people once the situation improves, differentiate itself from other service providers, and achieve significant profits.
+**Business Goal**: The objective is to model the demand for shared bikes using available independent variables. This model will help management understand how demand varies with different features, allowing them to adjust their business strategy accordingly. The model will also provide insights into demand dynamics in a new market, helping BoomBikes meet customer expectations and achieve profitability.
 
 ## Conclusions
 The analysis highlights the significant impact of various categorical and numerical variables on bike rental demand. The model validation steps ensured the reliability and accuracy of the predictions. Key factors like season, month, weather conditions, and temperature play crucial roles in determining bike rentals, providing valuable insights for optimizing service and improving decision-making.
